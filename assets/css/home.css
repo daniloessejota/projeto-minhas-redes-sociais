@@ -13,6 +13,14 @@ main {
     height: 100vh;
 }
 
+.container {
+    width: 720px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 /* Sections */
 #telefone {
     position: absolute;
@@ -32,4 +40,11 @@ main {
     left: 21px;
     width: 272px;
     height: 471px;
+}
+
+/* botões das redes sociais */
+#redes-sociais img {
+    width: 50px;
+    margin: 5px 0 5px 5px;
+    border-radius: 50%;
 }
