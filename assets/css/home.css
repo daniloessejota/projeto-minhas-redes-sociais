@@ -18,7 +18,7 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    height: 619px;
+    height: 627px;
     width: 311px;
     background: var(--imagem_telefone);
 }
